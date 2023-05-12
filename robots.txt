@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://primbon-togelhk.github.io/sitemap.xml
